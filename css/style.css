@@ -1,0 +1,74 @@
+html{
+     background-color: rgb(39, 50, 56);
+}
+
+.title{
+     font-family: Impact, Charcoal, sans-serif;
+     background-color: rgb(255, 255, 255);
+     color: rgb(105, 133, 147);
+     text-align: center;
+     font-size: 70px;
+}
+
+.sub-title{
+     font-family: Arial, Gadget, sans-serif;
+     font-weight: 900;
+     margin-top: 30px;
+}
+
+p{
+     font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+     color: rgb(255, 255, 255);
+     font-weight: 100;
+     text-align: justify;
+}
+
+img{
+     border: 5px solid;
+     margin-left: 50px;
+}
+
+.img-aspiradoras{
+     border-color: rgb(230, 203, 191);
+}
+
+.aspiradoras{
+     color: rgb(230, 203, 191);
+}
+
+.celulares{
+     color: rgb(161, 193, 203);
+}
+
+.img-celulares{
+     border-color: rgb(161, 193, 203);
+}
+
+.consolas{
+     color: rgb(188, 189, 191);
+}
+
+.img-consolas{
+     border-color: rgb(188, 189, 191);
+}
+
+.home-theaters{
+     color: rgb(141, 148, 161);
+}
+
+.img-home-theaters{
+     border-color: rgb(141, 148, 161);
+     max-width: 500px;
+}
+
+.televisores{
+     color: rgb(178, 178, 170);
+}
+
+.img-televisores{
+     border-color: rgb(178, 178, 170);
+}
+
+.letter{
+     font-size: 1.3em;
+}
